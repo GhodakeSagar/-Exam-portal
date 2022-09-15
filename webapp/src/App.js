@@ -1,10 +1,12 @@
-import logo from './logo.svg';
+
 import './App.css';
+import  Signup from "./pages/Signup";
 
 function App() {
   return (
     <> <h1>
-      hello react
+      
+      <Signup/>
     </h1>
     </>
   );
